@@ -1,3 +1,5 @@
+package iraqooh.com.github;
+
 import java.util.Scanner;
 
 /**
